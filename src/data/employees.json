@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "mobile": "1234567890",
+    "designation": "Manager",
+    "gender": "Male",
+    "courses": ["MCA", "BCA"],
+    "img": "path/to/john_image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "mobile": "0987654321",
+    "designation": "HR",
+    "gender": "Female",
+    "courses": ["BSC"],
+    "img": "path/to/jane_image.jpg"
+  }
+]
